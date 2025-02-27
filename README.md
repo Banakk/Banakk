@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🥷🥷 Hi there ! 🥷🥷
+## 🥷🥷 Welcome ! 🥷🥷
 
 I'm a security engineer at Hyggle since 2024.
 
